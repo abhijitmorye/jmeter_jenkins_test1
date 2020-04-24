@@ -1,0 +1,2 @@
+A_SHOP_IT_Purchase_Product
+B_SHOP_IT_AdTo_Basket
